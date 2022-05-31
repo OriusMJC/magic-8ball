@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magic-8ball/static/css/main.ee44d7f8.css",
+    "main.js": "/magic-8ball/static/js/main.62795685.js",
+    "index.html": "/magic-8ball/index.html",
+    "main.ee44d7f8.css.map": "/magic-8ball/static/css/main.ee44d7f8.css.map",
+    "main.62795685.js.map": "/magic-8ball/static/js/main.62795685.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee44d7f8.css",
+    "static/js/main.62795685.js"
+  ]
+}
